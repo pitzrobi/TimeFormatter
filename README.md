@@ -1,2 +1,1 @@
-Human readable duration format
-Pitz Róbert
+Human readable duration format task
