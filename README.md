@@ -1,2 +1,2 @@
-##Human readable duration format
+Human readable duration format
 Pitz Róbert
